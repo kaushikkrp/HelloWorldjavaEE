@@ -1,0 +1,4 @@
+Following are the jobs created as part of the assessment
+1. 00ExamCorberturaMaven
+2. 01examArtifactory
+3. 02examAnsible
